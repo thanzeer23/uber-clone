@@ -31,6 +31,13 @@
       "eas": {
         "projectId": "5386ac1c-4efb-473b-b039-f5c0eb0721ee"
       }
+    },
+    "owner": "thanzeer23",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5386ac1c-4efb-473b-b039-f5c0eb0721ee"
     }
   }
 }
