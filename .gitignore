@@ -5,7 +5,7 @@ node_modules/
 
 
 # env file
-.env
+*.env
 
 # Expo
 .expo/
